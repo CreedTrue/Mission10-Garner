@@ -1,0 +1,6 @@
+@BowlingAPI_HostAddress = http://localhost:5136
+
+GET {{BowlingAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
